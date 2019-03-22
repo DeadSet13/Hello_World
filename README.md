@@ -1,4 +1,4 @@
-# Hello_World
-Introductory Repos.
+# Hello Everybody
+This is my first repository entry, I will get better at this as time goes along.
 
-Hi Everybody! I'm a CS Major trying my hand at git for the first time. Im interested in all C languages, and python.
+Hey Everyone! I'm a CS Major trying my hand at git for the first time. Im interested in all C languages, python, as well as php.
